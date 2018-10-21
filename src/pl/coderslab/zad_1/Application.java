@@ -1,4 +1,4 @@
-package com.company;
+package pl.coderslab.zad_1;
 
 public class Application {
 
