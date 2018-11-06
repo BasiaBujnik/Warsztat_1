@@ -45,9 +45,10 @@ public class Zgadywanka_liczb2 {
                 break;
             }
         }
+        counter++;
+        System.out.println("Odgadłam liczbę po "+counter+" próbach.");
     }
-        //counter++;
-        //System.out.println("Odgadłam liczbę po "+counter+" próbach.");
+
 
 
 }
